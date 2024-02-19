@@ -1,6 +1,7 @@
 import pygame
 from clases import Ficha
 
+
 #----------------- Dimensiones de la ventana y el tablero-------#
 ANCHO, ALTO = 500, 500
 DIMENSION = 8
