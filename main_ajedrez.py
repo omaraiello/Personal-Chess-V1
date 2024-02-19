@@ -22,6 +22,7 @@ torre_img_B  = pygame.image.load('imagenes/Torre_B.png')
 alfil_img_B  = pygame.image.load('imagenes/Alfil_B.png')
 caballo_img_B  = pygame.image.load('imagenes/Caballo_B.png')
 
+
 Peon_img_N  = pygame.image.load('imagenes/Peon_N.png')
 rey_img_N   = pygame.image.load('imagenes/Rey_N.png')
 reina_img_N  = pygame.image.load('imagenes/Reina_N.png')
